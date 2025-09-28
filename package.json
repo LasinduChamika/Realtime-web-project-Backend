@@ -1,0 +1,13 @@
+{
+  "name": "realtime-doc-backend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.3",
+    "y-websocket": "^1.5.4"
+  }
+}
